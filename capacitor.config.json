@@ -1,0 +1,17 @@
+{
+  "appId": "com.studiogm.app",
+  "appName": "Studio GM",
+  "webDir": "dist",
+  "backgroundColor": "#16202a",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  },
+  "android": {
+    "adjustMarginsForEdgeToEdge": "force"
+  }
+}
